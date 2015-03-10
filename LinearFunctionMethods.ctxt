@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getSlope()
+comment0.text=\n\ Gets\ the\ slope\ of\ the\ linear\ function\n\ @returns\ The\ slope\ of\ the\ linear\ equation\n
+comment1.params=
+comment1.target=double\ getYintercept()
+comment1.text=\n\ Gets\ the\ y-intercept\ of\ the\ linear\ function\n\ @returns\ The\ y-intercept\ of\ the\ linear\ equation\n
+comment2.params=
+comment2.target=double\ getRoot()
+comment2.text=\n\ Gets\ the\ root\ of\ the\ linear\ equation.\ \ The\ root\ is\ the\ \n\ same\ as\ the\ "zero"\ or\ the\ x-coordinate\ where\ the\ line\ \n\ crosses\ the\ x-axis.\n\ @returns\ The\ root\ of\ the\ linear\ equation\n
+comment3.params=x
+comment3.target=double\ getYvalue(double)
+comment3.text=\n\ Given\ an\ x-value\ of\ a\ function,\ compute\ the\ y-value\n\ @param\ x\ Supplied\ x-value\n\ @returns\ The\ function's\ y-value\ for\ the\ supplied\ x-value\n
+comment4.params=y
+comment4.target=double\ getXvalue(double)
+comment4.text=\n\ Given\ a\ y-value\ of\ a\ function,\ compute\ the\ x-value\n\ @param\ y\ Supplied\ y-value\n\ @returns\ The\ function's\ x-value\ for\ the\ supplied\ y-value\n
+numComments=5
