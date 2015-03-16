@@ -1,17 +1,17 @@
 #BlueJ class context
 comment0.params=
 comment0.target=double\ getSlope()
-comment0.text=\n\ Gets\ the\ slope\ of\ the\ linear\ function\n\ @returns\ The\ slope\ of\ the\ linear\ equation\n
+comment0.text=\r\n\ Gets\ the\ slope\ of\ the\ linear\ function\r\n\ @returns\ The\ slope\ of\ the\ linear\ equation\r\n
 comment1.params=
 comment1.target=double\ getYintercept()
-comment1.text=\n\ Gets\ the\ y-intercept\ of\ the\ linear\ function\n\ @returns\ The\ y-intercept\ of\ the\ linear\ equation\n
+comment1.text=\r\n\ Gets\ the\ y-intercept\ of\ the\ linear\ function\r\n\ @returns\ The\ y-intercept\ of\ the\ linear\ equation\r\n
 comment2.params=
 comment2.target=double\ getRoot()
-comment2.text=\n\ Gets\ the\ root\ of\ the\ linear\ equation.\ \ The\ root\ is\ the\ \n\ same\ as\ the\ "zero"\ or\ the\ x-coordinate\ where\ the\ line\ \n\ crosses\ the\ x-axis.\n\ @returns\ The\ root\ of\ the\ linear\ equation\n
+comment2.text=\r\n\ Gets\ the\ root\ of\ the\ linear\ equation.\ \ The\ root\ is\ the\ \r\n\ same\ as\ the\ "zero"\ or\ the\ x-coordinate\ where\ the\ line\ \r\n\ crosses\ the\ x-axis.\r\n\ @returns\ The\ root\ of\ the\ linear\ equation\r\n
 comment3.params=x
 comment3.target=double\ getYvalue(double)
-comment3.text=\n\ Given\ an\ x-value\ of\ a\ function,\ compute\ the\ y-value\n\ @param\ x\ Supplied\ x-value\n\ @returns\ The\ function's\ y-value\ for\ the\ supplied\ x-value\n
+comment3.text=\r\n\ Given\ an\ x-value\ of\ a\ function,\ compute\ the\ y-value\r\n\ @param\ x\ Supplied\ x-value\r\n\ @returns\ The\ function's\ y-value\ for\ the\ supplied\ x-value\r\n
 comment4.params=y
 comment4.target=double\ getXvalue(double)
-comment4.text=\n\ Given\ a\ y-value\ of\ a\ function,\ compute\ the\ x-value\n\ @param\ y\ Supplied\ y-value\n\ @returns\ The\ function's\ x-value\ for\ the\ supplied\ y-value\n
+comment4.text=\r\n\ Given\ a\ y-value\ of\ a\ function,\ compute\ the\ x-value\r\n\ @param\ y\ Supplied\ y-value\r\n\ @returns\ The\ function's\ x-value\ for\ the\ supplied\ y-value\r\n
 numComments=5
